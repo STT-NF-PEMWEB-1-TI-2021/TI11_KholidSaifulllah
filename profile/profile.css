@@ -1,0 +1,53 @@
+a {
+    text-decoration: none;
+}
+.awan1 {
+    border: 1px solid black;
+    width: 1000px;
+}
+header {
+    font-family: sans-serif;
+}
+#poto1 {
+    float: left;
+    padding: 20px;
+    width: 200px;
+    margin: -5px;
+}
+.awan2 {
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.awan3 {
+    text-align: end;
+    margin-right: 10px;
+    margin: -240px 10px 150px;
+}
+#heading1 {
+    text-decoration: underline;
+}
+.data1, .data2, .data3 {
+    color: black;
+}
+.awan4 {
+    margin-right: 20 px;
+}
+video, #poto2 {
+    width: 250px;
+    height: 250px;
+    margin-left: 15px;
+    border: 1px solid black;
+}
+video {
+    margin-bottom: 15px;
+}
+#poto2 {
+    margin: 15px;
+}
+fieldset {
+    width: 400px;
+    height: 250px;
+    float: right;
+    margin-right: 15px;
+    border: 1px solid black;
+}
